@@ -10,4 +10,4 @@
 
 
 
-![Alt text](https://github.com/cem8301/Catan/blob/master/odometer.png?raw=true "Hardware")
+![Alt text](https://github.com/cem8301/Odometer/blob/master/odometer.png?raw=true "Hardware")
